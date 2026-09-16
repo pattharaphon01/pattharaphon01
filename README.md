@@ -1,6 +1,4 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is pattharaphon
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
 <img
 src="(https://petmaya.com/wp-content/uploads/2015/08/funny-face-dog-18.jpg)" width="100" height="100" />
 =====================================================================================================================================
