@@ -1,3 +1,4 @@
+<img width="610" height="427" alt="funny-face-dog-18" src="https://github.com/user-attachments/assets/b02313e6-cf75-42c5-9fc8-f4df70812119" />
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is pattharaphon
 <img
 src="(https://petmaya.com/wp-content/uploads/2015/08/funny-face-dog-18.jpg)" width="100" height="100" />
